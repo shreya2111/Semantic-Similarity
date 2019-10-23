@@ -1,2 +1,1 @@
-# Semantic-Similarity-
-Text Data
+# Semantic Textual Similarity
